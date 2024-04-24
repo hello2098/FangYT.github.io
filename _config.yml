@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "YuTing Fang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Anhui Normal University"
+  location         : "China Anhui"
+  # employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fyt083010@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
